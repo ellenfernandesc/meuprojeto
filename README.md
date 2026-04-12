@@ -22,15 +22,15 @@ Estudantes de todos os níveis que possuem dificuldade em organizar sua rotina d
 - Flake8 (Linting/Análise Estática)
 - GitHub Actions (CI)
 
-## [cite_start]Instruções de Instalação e Execução [cite: 85, 86]
+## Instruções de Instalação e Execução
 1. Certifique-se de ter o Python instalado.
 2. Clone o repositório.
 3. Para rodar a aplicação: `python src/main.py`.
 
-## [cite_start]Instruções para Testes e Lint [cite: 87, 88]
+## Instruções para Testes e Lint
 - Para rodar os testes: `python -m unittest discover tests`.
 - Para rodar o lint (análise estática): `flake8 .`.
 
 ---
-[cite_start]**Versão:** 1.0.0 (Semantic Versioning)[cite: 97].
+**Versão:** 1.0.0 (Semantic Versioning).
 **Autor:** Ellen Fernandes Cândido.
