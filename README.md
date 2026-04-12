@@ -1,15 +1,15 @@
-# meuprojeto
-Meu projeto Desafio Inicial
+# Meu Projeto
+Meu projeto - Desafio Inicial
 # Organizador de Estudos Eficiente (StudyOrganizer)
 
 ## Descrição do Problema Real
-[cite_start]Muitos estudantes enfrentam dificuldades para manter uma rotina de estudos consistente, perdendo-se na gestão do tempo e na priorização de matérias, o que gera ansiedade e queda no desempenho acadêmico[cite: 139].
+Muitos estudantes enfrentam dificuldades para manter uma rotina de estudos consistente, perdendo-se na gestão do tempo e na priorização de matérias, o que gera ansiedade e queda no desempenho acadêmico.
 
-## Proposta da Solução
-[cite_start]Esta aplicação CLI (Interface de Linha de Comando) permite que o estudante cadastre matérias e tempos de estudo, oferecendo uma listagem organizada para facilitar o foco diário[cite: 140].
+## Proposta da solução
+Esta aplicação CLI (Interface de Linha de Comando) permite que o estudante cadastre matérias e tempos de estudo, oferecendo uma listagem organizada para facilitar o foco diário[cite: 140].
 
 ## Público-Alvo
-[cite_start]Estudantes de todos os níveis que possuem dificuldade em organizar sua rotina de estudos[cite: 82].
+Estudantes de todos os níveis que possuem dificuldade em organizar sua rotina de estudos.
 
 ## Funcionalidades Principais
 - Cadastro de tarefas/matérias com tempo definido.
