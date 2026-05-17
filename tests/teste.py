@@ -1,7 +1,7 @@
 import unittest
 from unittest.mock import patch
 # Importe a função do seu arquivo correspondente
-from seu_arquivo_principal import obter_frase_motivacional 
+from main import obter_frase_motivacional 
 
 class TestIntegracaoAPI(unittest.TestCase):
 
