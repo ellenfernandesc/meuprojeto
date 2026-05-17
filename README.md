@@ -1,4 +1,15 @@
+# StudyOrganizer 📚
+
+> 🚀 **Link de Deploy (Instalação Direta via Nuvem):**
+> Para instalar e rodar esta aplicação diretamente do repositório público em qualquer ambiente com Python 3, execute o comando abaixo:
+> ```bash
+> pip install git+[https://github.com/ellenfernandesc/meuprojeto.git](https://github.com/ellenfernandesc/meuprojeto.git)
+> ```
+
+---
+
 # Meu Projeto
+
 Meu projeto - Desafio Inicial
 # Organizador de Estudos Eficiente (StudyOrganizer)
 
@@ -33,4 +44,9 @@ Estudantes de todos os níveis que possuem dificuldade em organizar sua rotina d
 
 ---
 **Versão:** 1.0.0 (Semantic Versioning).
+
 **Autor:** Ellen Fernandes Cândido.
+
+
+
+
