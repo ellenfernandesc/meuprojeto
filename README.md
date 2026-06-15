@@ -47,6 +47,26 @@ Estudantes de todos os níveis que possuem dificuldade em organizar sua rotina d
 
 **Autor:** Ellen Fernandes Cândido.
 
+# Organizador de Rotina de Estudos CLI
 
+Uma aplicação em linha de comando (CLI) desenvolvida para ajudar estudantes a gerenciarem suas matérias e tempos de estudo, auxiliando na organização pessoal e foco acadêmico.
+
+## 👥 Integrantes
+* **Ellen Fernandes Cândido** - Matrícula: 22551100
+* **João Victor Pereira Alves** - Matrícula: 22508539
+
+## 🛠️ Tecnologias Utilizadas
+* **Linguagem:** Python 3.x
+* **Banco de Dados em Nuvem:** Supabase (PostgreSQL)
+* **Bibliotecas Principais:** `psycopg2-binary`, `python-dotenv`
+
+## 🚀 Como Rodar Localmente
+
+Siga os passos abaixo para executar a aplicação na sua máquina:
+
+1. **Clonar o repositório:**
+   ```bash
+   git clone [https://github.com/ellenfernandesc/meuprojeto.git](https://github.com/ellenfernandesc/meuprojeto.git)
+   cd meuprojeto
 
 
